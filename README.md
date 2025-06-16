@@ -7,19 +7,19 @@
 # ***🚀 Built With***
 Tool	Purpose
 
-Gradio	Frontend interface for conversation and TTS
+*Gradio*	Frontend interface for conversation and TTS
 
-Hugging Face Transformers	Used for powerful open-source LLMs
+*Hugging Face* Transformers	Used for powerful open-source LLMs
 
-InferenceClient (Hugging Face Hub)	Seamless API-based inference from Zephyr
+*InferenceClient (Hugging Face Hub)*	Seamless API-based inference from Zephyr
 
-gTTS / Text-to-Speech Models	Voice output for Jarvis (real-time)
+*gTTS / Text-to-Speech* Models	Voice output for Jarvis (real-time)
 
-Python (3.10+)	Backend logic and orchestration
+*Python (3.10+)*	Backend logic and orchestration
 
-OpenWeather API	Real-time weather updates
+*OpenWeather API*	Real-time weather updates
 
-Hugging Face Spaces	Hosted live demo with UI and voice
+*Hugging Face Spaces*	Hosted live demo with UI and voice
 
 # ***🧠 Features***
 
