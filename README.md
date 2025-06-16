@@ -4,6 +4,8 @@
  “Hey boss 👋 Finals on July 29? Let’s lock in a light but consistent plan.”
  — Jarvis, always in your corner.
 
+Here is the link for my own gpt, Jarvis: https://huggingface.co/spaces/RagnirNafiz47/jarvis-assistant
+
 ## ***🚀 Built With***
 Tool	Purpose
 
