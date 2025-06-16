@@ -4,7 +4,7 @@
  “Hey boss 👋 Finals on July 29? Let’s lock in a light but consistent plan.”
  — Jarvis, always in your corner.
 
-# ***🚀 Built With***
+## ***🚀 Built With***
 Tool	Purpose
 
 *Gradio*	Frontend interface for conversation and TTS
@@ -21,7 +21,7 @@ Tool	Purpose
 
 *Hugging Face Spaces*	Hosted live demo with UI and voice
 
-# ***🧠 Features***
+## ***🧠 Features***
 
 ***🎙️ Natural, helpful dialogue***
 
@@ -45,7 +45,7 @@ Turning responses into natural spoken words using Bark / TTS
 
 No local GPUs needed — built for the web
 
-# ***🛠️ Behind the Scenes***
+## ***🛠️ Behind the Scenes***
 This project was created during the Build Your Own GPT program with Hugging Face and OpenAI. It taught me how to:
 
 Fine-tune conversational tone with custom system prompts
@@ -56,7 +56,7 @@ Add voice output using both gTTS and Hugging Face models
 
 Deploy full-stack AI apps using Gradio + Hugging Face Spaces
 
-# ***👤 Created By***
+## ***👤 Created By***
 Nafiz Shahriar — Just a guy who wanted his own Jarvis.
 
 “I wanted it to feel like a chill coach who just gets it — not a generic chatbot.”
