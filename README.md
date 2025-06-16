@@ -1,4 +1,4 @@
-# ***🤖 JARVIS – Your Calm AI Companion Built by Nafiz Shahriar***
+# ***🤖 JARVIS – Your Personal AI Companion Built by Nafiz Shahriar***
  Jarvis is a personal AI assistant designed to empower focus, motivation, and productivity — all wrapped in a chill, human-like vibe. He doesn’t just answer questions — he gets your mindset, remembers what matters, and talks like a grounded coach, not a robot.
 
  “Hey boss 👋 Finals on July 29? Let’s lock in a light but consistent plan.”
