@@ -9,13 +9,9 @@ Here is the link for my own gpt, Jarvis: https://huggingface.co/spaces/RagnirNaf
 ## ***🚀 Built With***
 Tool	Purpose
 
-*Gradio*	Frontend interface for conversation and TTS
-
 *Hugging Face* Transformers	Used for powerful open-source LLMs
 
 *InferenceClient (Hugging Face Hub)*	Seamless API-based inference from Zephyr
-
-*gTTS / Text-to-Speech* Models	Voice output for Jarvis (real-time)
 
 *Python (3.10+)*	Backend logic and orchestration
 
